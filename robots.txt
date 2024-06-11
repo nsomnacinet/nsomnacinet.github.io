@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nsomnacinet.github.io/sitemap.html
+Sitemap: https://nsomnacinet.github.io/app/sitemap.html
+Sitemap: https://nsomnacinet.github.io/assets/sitemap.html
+Sitemap: https://nsomnacinet.github.io/css/sitemap.html
+Sitemap: https://nsomnacinet.github.io/includes/sitemap.html
+Sitemap: https://nsomnacinet.github.io/item/sitemap.html
+Sitemap: https://nsomnacinet.github.io/src/sitemap.html
